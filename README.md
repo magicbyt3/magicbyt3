@@ -1,2 +1,1 @@
-![animazing](https://github.com/p13rnd/p13rnd/blob/master/motio.gif)
-![flash](https://github.com/p13rnd/p13rnd/blob/master/colorboxes.gif)
+![flash](https://github.com/magicbyt3/magicbyt3/blob/master/colorboxes.gif)
